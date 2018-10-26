@@ -6,7 +6,7 @@
     {
       "label":"Placeholder tekst",
       "default":"Begin hier tekst in te voeren...",
-      "description":"Tekst die initieel getoond wordt in het invoerveld. Wordt automatischv verwijderd zodra de gebruiker begint te schrijven."
+      "description":"Tekst die initieel getoond wordt in het invoerveld. Wordt automatisch verwijderd zodra de gebruiker begint te schrijven."
     },
     {
       "label":"Input rijen",
